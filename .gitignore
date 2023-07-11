@@ -1,0 +1,5 @@
+/.vs/
+/.vscode/*
+!/.vscode/extensions.json
+/bin/
+/obj/
